@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="732px" viewBox="0 0 1440 732" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>C17156E4-7A97-43E1-95C3-9166E5E4FE96</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="104.051649%" y1="50%" x2="30.8083767%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#12E4AA" offset="0%"></stop>
+            <stop stop-color="#16C6E1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="landihg_page_web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.200000018">
+        <g id="00_landing-page_03" fill="url(#linearGradient-1)">
+            <g id="header" transform="translate(-69.000000, -100.000000)">
+                <g id="bg_1">
+                    <path d="M69,120 L1528,120 C1528,296.016477 1528,432.418045 1528,529.204706 C1528,674.384696 647.533882,748.083182 489,764.33096 C419.765625,771.426634 323.589678,771.390211 231.5,841.758205 C170.106881,888.6702 115.940214,955.417465 69,1042 L69,120 Z" id="Rectangle" transform="translate(798.500000, 581.000000) rotate(10.000000) translate(-798.500000, -581.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
