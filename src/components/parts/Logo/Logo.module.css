@@ -1,0 +1,25 @@
+.logo{
+    border-radius: 50%;
+}
+
+.logo img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.logo.sm{
+    width: 24px;
+    height: 24px;
+}
+
+.logo.md{
+    width: 48px;
+    height: 48px;
+}
+
+.logo.lg{
+    width: 88px;
+    height: 88px;
+}

@@ -1,0 +1,11 @@
+.content{
+    background-color: #181e30;
+    padding: 0 64px 0 48px;
+    overflow-y: auto;
+}
+
+@media (max-width: 1000px) {
+    .content{
+        padding: 0 20px;
+    }
+}

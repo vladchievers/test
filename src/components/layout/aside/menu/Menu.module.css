@@ -1,0 +1,52 @@
+.menu {
+    margin: 0 0 30px;
+}
+
+.menu li {
+    font-size: 14px;
+    margin-bottom: 20px;
+    position: relative;
+    
+}
+
+.menu a {
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+
+.menu li:before{
+    content: '';
+    left: -50px;
+    top: 0;
+    height: 100%;
+    width: 60px;
+    background: linear-gradient(90deg, rgba(90, 188, 97, 0.54) 0%, rgba(90, 188, 97, 0) 84.62%);
+    position: absolute;
+    will-change: transform;
+    transform: scaleX(0);
+    transition: transform .3s ease-in-out;
+    transform-origin: left;
+}
+
+.li path {
+    transition: fill .3s ease-in-out;
+}
+
+.menu span {
+    font-weight: bold;
+    margin-left: 24px;
+    transition: color .3s ease-in-out;
+}
+
+.menu li:hover:before{
+    transform: scaleX(1);
+}
+
+.menu li:hover span{
+    color: #5ABC61;
+}
+
+.menu li:hover path{
+    fill: #5ABC61;
+}

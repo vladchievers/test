@@ -1,0 +1,23 @@
+.albums {
+    margin-top: 50px;
+    margin-right: -64px;
+}
+
+.albums h3 {
+    font-size: 22px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.albumsList {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding-bottom: 20px;
+}
+
+@media (max-width: 1000px) {
+    .albums {
+        margin-right: 0;
+    }
+}
